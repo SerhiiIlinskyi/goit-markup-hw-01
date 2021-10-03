@@ -3,17 +3,19 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.Верхняя-линия {
+  background-color: white;
+}
 .accent {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #0099ff;
-  background-color: ;
 }
 
 .Шапка {
   color: cornsilk;
   background-color: #2f303a;
 }
-.footer {
+.подвал {
   background-color: #2f303a;
   color: white;
 }

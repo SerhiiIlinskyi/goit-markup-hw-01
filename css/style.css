@@ -1,4 +1,5 @@
 .body {
+  font-family: Roboto;
   position: relative;
   width: 1600px;
   height: 2349px;
@@ -7,7 +8,7 @@
 
 /**верхняя линия**/
 
-.top-line {
+.header-line {
   position: absolute;
   width: 1600px;
   height: 80px;
@@ -25,7 +26,7 @@
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 0, 84;
   /* identical to box height */
 
   letter-spacing: 0.03em;
@@ -33,21 +34,24 @@
 .accent {
   color: #2196f3;
 }
-.ddrei-cnopka {
+/**.drei-cnopka {
+  font-family: Roboto;
   position: absolute;
   width: 294px;
   height: 16px;
   left: 453px;
   top: 32px;
-}
+}**/
 .Studio {
+  font-family: Roboto;
   position: absolute;
   width: 49px;
-  height: 16px;
+  height: 3.06;
   left: 453px;
   top: 32px;
 }
 .Portfolio {
+  font-family: Roboto;
   position: absolute;
   width: 77px;
   height: 16px;
@@ -55,6 +59,7 @@
   top: 32px;
 }
 .Contacts {
+  font-family: Roboto;
   position: absolute;
   width: 68px;
   height: 16px;
@@ -62,6 +67,7 @@
   top: 32px;
 }
 .httpsinfodevstudio {
+  font-family: Roboto;
   position: absolute;
   width: 135px;
   height: 16px;
@@ -69,18 +75,19 @@
   top: 32px;
 }
 .tel38096111111 {
+  font-family: Roboto;
   position: absolute;
   width: 122px;
   height: 16px;
   left: 1263px;
   top: 32px;
 }
-
 /**index**/
 
 /**шапка**/
 
 .cap {
+  font-family: Roboto;
   position: absolute;
   width: 1600px;
   height: 600px;
@@ -129,6 +136,7 @@
 }**/
 
 .block1 {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 101px;
@@ -150,8 +158,8 @@
   left: 215px;
   top: 800px;
 }**/
-
 .block2 {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 101px;
@@ -174,6 +182,7 @@
 }**/
 
 .block3 {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 101px;
@@ -195,6 +204,7 @@
   top: 800px;
 }**/
 .block4 {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 101px;
@@ -225,6 +235,7 @@
   top: 969px;
 }**/
 .how1 {
+  font-family: Roboto;
   position: absolute;
   width: 376px;
   height: 42px;
@@ -265,6 +276,7 @@
 }**/
 
 .our {
+  font-family: Roboto;
   position: absolute;
   width: 264px;
   height: 42px;
@@ -281,6 +293,7 @@
 }**/
 
 .Igor {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 368px;
@@ -289,6 +302,7 @@
 }
 
 .Olha {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 368px;
@@ -296,6 +310,7 @@
   top: 1635px;
 }
 .Nicola {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 368px;
@@ -303,6 +318,7 @@
   top: 1635px;
 }
 .Mihail {
+  font-family: Roboto;
   position: absolute;
   width: 270px;
   height: 368px;
@@ -315,6 +331,7 @@
 /**knopka**/
 
 .knopka {
+  font-family: Roboto;
   width: 1170px;
   height: 1360px;
   top: 174px;
@@ -323,6 +340,7 @@
 }
 
 .all {
+  font-family: Roboto;
   position: absolute;
   width: 73px;
   height: 38px;
@@ -445,6 +463,7 @@
 }
 /**подвал**/
 .footer {
+  font-family: Roboto;
   position: absolute;
   width: 1600px;
   height: 252px;

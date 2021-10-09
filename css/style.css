@@ -16,7 +16,7 @@
   top: 0px;
 }
 
-.Web-Studio1 {
+.Web-Studio {
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
@@ -26,6 +26,7 @@
   height: 31px;
   left: 215px;
   top: 24px;
+  color: #2196f3;
 }
 .accent {
   color: #2196f3;
@@ -125,6 +126,7 @@
 }
 
 /**особенности**/
+.
 
 /**.peculiarities1 {
   position: absolute;

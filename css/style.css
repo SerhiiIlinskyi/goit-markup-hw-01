@@ -17,22 +17,21 @@
 }
 
 .Web-Studio1 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
   position: absolute;
   width: 145px;
   height: 31px;
   left: 215px;
   top: 24px;
-  font-family: Raleway;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 26px;
-  line-height: 0, 84;
-  /* identical to box height */
-
-  letter-spacing: 0.03em;
 }
 .accent {
   color: #2196f3;
+}
+.accent1 {
+  color: black;
 }
 /**.drei-cnopka {
   font-family: Roboto;
